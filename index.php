@@ -25,6 +25,7 @@
     <li><a href="https://github.com/Windygo/phpoop/blob/master/2_6.php" target="_blank">CLASS INHERITANCE</a></li>
     <li><a href="https://github.com/Windygo/phpoop/blob/master/2_7.php" target="_blank">STATIC METHODS & PROPERTIES</a></li>
     <li><a href="https://github.com/Windygo/phpoop/blob/master/2_8.php" target="_blank">INTERFACES</a></li>
+    <li><a href="https://github.com/Windygo/phpoop/blob/master/pdo.php" target="_blank">PDO</a></li>
     </ul>
   </div>
   
