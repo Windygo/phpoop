@@ -1,5 +1,39 @@
 <?php
 
+<<<<<<< HEAD
+?>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <!-- Latest compiled and minified CSS -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+  <title>OOP PHP Foundations</title>
+
+</head>
+<body>
+<div class="container">
+  <div class="jumbotron mt-lg">
+    <h1>PHP OOP Foundations</h1>
+    <ul>
+    <li><a href="https://github.com/Windygo/phpoop/blob/master/2_3.php" target="_blank">CLASSES, PROPERITES & METHODS</a></li>
+    <li><a href="https://github.com/Windygo/phpoop/blob/master/2_4.php" target="_blank">CONSTRUCTOR & DESTRUCTOR</a></li>
+    <li><a href="https://github.com/Windygo/phpoop/blob/master/2_5.php" target="_blank">ACCESS MODIFIERS, GETTERS & SETTERS</a></li>
+    <li><a href="https://github.com/Windygo/phpoop/blob/master/2_6.php" target="_blank">CLASS INHERITANCE</a></li>
+    <li><a href="https://github.com/Windygo/phpoop/blob/master/2_7.php" target="_blank">STATIC METHODS & PROPERTIES</a></li>
+    <li><a href="https://github.com/Windygo/phpoop/blob/master/2_8.php" target="_blank">INTERFACES</a></li>
+    </ul>
+  </div>
+  
+</div>
+
+
+</body>
+</html>
+=======
 $host = 'localhost';
 $user = 'root';
 $password = '123456';
@@ -43,3 +77,4 @@ $stmt->execute(array(
 );
 
 
+>>>>>>> 848fa3e74d4722b43c82b2018c3bfb30628794eb
